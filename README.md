@@ -7,4 +7,4 @@ npm install
 
 npm start
 ```
-live demo: 
+live demo: https://yourexpenseapp.netlify.app
